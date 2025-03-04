@@ -2,19 +2,15 @@
     "search_criteria": [
         {
             "type": "domain",
-            "value": "service-smtdocomo.ucfihvhjk.net"
+            "value": "github.com"
         },
         {
             "type": "domain",
-            "value": "service-smtdocomo.zgykqaoy.com"
+            "value": "www.virustotal.com"
         },
         {
             "type": "domain",
-            "value": "faw521.com"
-        },
-        {
-            "type": "domain",
-            "value": "smbccard.sbs"
+            "value": "urlscan.io"
         }
     ]
 }
