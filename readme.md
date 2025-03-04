@@ -22,4 +22,4 @@ NAD-App is a **security scanning tool** that integrates with the **VirusTotal** 
 ## **Installation**
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/NAD-App.git
+   git clone https://github.com/Jhonattan-Garcia/NAD-App.git
