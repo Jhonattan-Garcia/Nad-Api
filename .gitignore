@@ -1,0 +1,6 @@
+key.txt
+*.log
+__pycache__/
+*.pyc
+Resultados_Busquedas/
+config.json
