@@ -1,0 +1,12 @@
+{
+    "UrlScanKey": "your UrlScan ApiKey here",
+    "VirusTotalKey": "your Virus Total ApiKey here",
+    "output_folder": "Resultados_Busquedas",
+    "output_tittle": "Results",
+    "test_mode": 1,
+    "Result_json": 1,
+    "Result_csv": 1,
+    "Max_results": 10,
+    "author": "Jhonattan Garcia"
+  }
+  
